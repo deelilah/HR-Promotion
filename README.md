@@ -14,6 +14,7 @@ c) Understanding the context
 A large MNC has 9 broad verticals across the organization. One of the problems is identifying the right people for promotion (only for manager position and below) and preparing them in time. The final promotions are only announced after the evaluation and this leads to delay in transition to new roles. Hence, the company needs help in identifying the eligible candidates at a particular checkpoint so that they can expedite the entire promotion cycle.
 
 d) Recording the Experimental Design
+
 Below is the expected flow of the work:
 
 Data Cleaning and Preparation
@@ -24,7 +25,9 @@ Perform EDA
 Univariate Analysis
 Bivariate Analysis
 Multivariate Analysis
+
 e) Data relevance / Appropriateness of Data
+
 ememployee_id: Unique ID for employee
 
 department: Department of employee
