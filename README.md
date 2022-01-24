@@ -2,6 +2,7 @@
 This is an assessment that will test on one Multivariate technique used in  data analysis
 
 1. Defining the Question
+2. 
 a) Specifying the Question
 
 This is the analysis of factors that contribute to an individual getting promoted.It will focus on multivariate analysis.
